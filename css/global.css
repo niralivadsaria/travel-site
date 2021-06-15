@@ -1,0 +1,45 @@
+.main-page {
+  color: #335576;
+  list-style: none;
+}
+
+.main-page-list {
+  display: inline-block;
+  margin-left: 70%;
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main-background {
+  background-color: #ffffff;
+}
+
+.main-background-pic {
+  background-color: #fefaf5;
+}
+
+.info-page {
+  color: #335576;
+}
+.info-page--details {
+  color: #db7a4e;
+  font-size: 10px;
+}
+
+.travel-site-details {
+  display: inline-block;
+  /* justify-content: left; */
+  /* align-content: center; */
+  /* display: flex; */
+  /* align-content: space-between; */
+  align-items: flex-end;
+  padding: 5%;
+  margin-top: auto;
+}
+.home-decoration {
+  text-decoration: underline;
+}
+
+

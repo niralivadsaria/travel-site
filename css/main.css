@@ -1,0 +1,56 @@
+img.hero-pic {
+  background-position: right;
+  height: 30%;
+  width: 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 60%;
+}
+
+h1.word-logo {
+  color: #335576;
+  font-size: 40px;
+  margin-left: 200px;
+  width: 40%;
+  font-style: normal;
+}
+p.word-logo-slogan {
+  color: #335576;
+  width: 30%;
+  margin-left: 200px;
+}
+
+button.main-link {
+  background-color: #db7a4e;
+  border-radius: 37px 37px;
+
+  font-size: 20px;
+  margin-left: 20%;
+}
+.word-logo--colour {
+  color: #335576;
+}
+
+.hawaii {
+  height: 300px;
+  width: 200px;
+  background-image: url("../assest/Images/hawaii.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.iceland {
+  height: 300px;
+  width: 200px;
+  background-image: url("../assest/Images/iceland.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.greece {
+  height: 300px;
+  width: 200px;
+  background-image: url("../assest/Images/greece.jpg");
+  background-position: center;
+  background-size: cover;
+}
