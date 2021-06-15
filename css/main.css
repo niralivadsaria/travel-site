@@ -54,3 +54,13 @@ button.main-link {
   background-position: center;
   background-size: cover;
 }
+
+.main-page--recommendation {
+  display: inline-block;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 5px;
+  opacity: 20%;
+
+  color: white;
+}
