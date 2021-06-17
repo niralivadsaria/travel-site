@@ -1,6 +1,8 @@
 .main-page {
   color: #335576;
   list-style: none;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .main-page-list {
@@ -10,6 +12,7 @@
   list-style-type: none;
   display: flex;
   justify-content: space-evenly;
+  color: black;
 }
 
 .main-background {
@@ -22,6 +25,8 @@
 
 .info-page {
   color: #335576;
+  display: flex;
+  justify-content: space-between;
 }
 .info-page--details {
   color: #db7a4e;
@@ -29,17 +34,30 @@
 }
 
 .travel-site-details {
-  display: inline-block;
-  /* justify-content: left; */
-  /* align-content: center; */
-  /* display: flex; */
-  /* align-content: space-between; */
-  align-items: flex-end;
-  padding: 5%;
-  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3%;
 }
 .home-decoration {
   text-decoration: underline;
 }
+.time {
+  display: flex;
+  flex-direction: column;
+  padding-right: 60px;
+}
 
+.time-weekend {
+  display: flex;
+  flex-direction: column;
+  padding-right: 60px;
+  justify-content: flex-end;
+}
 
+.time-sunday {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: flex-end;
+}
